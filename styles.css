@@ -1,5 +1,10 @@
 body{
     background-color: blue;
     color: coral;
-    
+
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
 }
